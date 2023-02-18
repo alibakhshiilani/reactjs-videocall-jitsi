@@ -1,0 +1,25 @@
+{
+  "name": "reactjs-videocall-jitsi",
+  "version": "0.0.1",
+  "description": "ReactJs VideCall With CustomUi And No Jitsi Ui Dependencies",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alibakhshiilani/reactjs-videocall-jitsi.git"
+  },
+  "keywords": [
+    "Jitsi",
+    "VideoCall",
+    "Jitsi",
+    "Client"
+  ],
+  "author": "Ali Bakhshi Ilani",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/alibakhshiilani/reactjs-videocall-jitsi/issues"
+  },
+  "homepage": "https://github.com/alibakhshiilani/reactjs-videocall-jitsi#readme"
+}
